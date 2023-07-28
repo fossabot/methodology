@@ -48,6 +48,7 @@ To contribute to this methodology you can raise a pull request following the [Co
 The Konveyor Application Modernization Methodology has 5 phases.
 
 ![Process](/images/overview.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fmethodology.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fmethodology?ref=badge_shield)
 [Source](https://docs.google.com/drawings/d/1zHTILKacmiP6fHKyqQPHLVsDyHnyiB7sMGQ4clsKzks/edit)
 
 1. [Assess](#assess) - Engagement in which an exhaustive analysis of the current situation is made, including infrastructure and applications, technologies used and dependencies. Not only is it technical, it also affects processes and application lifecycle management. Next, a definition of the TO-BE scenario is proposed to implement the new platform, clearly identifying gaps and defining the next steps to follow. In addition, an initial estimate of the complete migration process is offered. This first estimate does not have great precision, but it does serve to give an idea of ​​orders of magnitude.
@@ -339,3 +340,7 @@ A glossary of common terms used within the guide
 
 This project is governed by our [Code of Conduct](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md). All
 participants are expected to uphold this code. Violations of the code can be reported by contacting us in communication channels.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fmethodology.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fmethodology?ref=badge_large)
